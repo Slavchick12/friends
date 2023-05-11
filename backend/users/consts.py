@@ -1,0 +1,6 @@
+NOTIFICATION_SENT = 'The notification has already been sent!'
+FRIEND_YOURSELF = 'You can t add yourself as a friend!'
+FRIEND_HAS_BEEN_ADDED = 'The user has been added to friends!'
+OUTGOING = 'Outgoing notification'
+INCOMIG = 'Incoming notification'
+YOURSELF = 'Its yourself'
